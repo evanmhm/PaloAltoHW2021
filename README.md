@@ -1,2 +1,2 @@
 # PaloAltoHW2021
-Interview homework for Palo Alto Software
+Fetches 20 posts from the r/Business subreddit and displays their information. Written with HTML, CSS, and JS.
